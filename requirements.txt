@@ -1,0 +1,14 @@
+protobuf==3.19.4
+streamlit==1.11.0
+numpy==1.23.1
+matplotlib==3.5.2
+pandas==1.4.3
+tensorflow==2.9.1
+joblib==1.1.0
+sklearn==0.0
+streamlit_ace
+seaborn
+scipy
+plotly
+requests
+torchtext
